@@ -14,8 +14,6 @@ Analyzed customer reviews to uncover sentiment trends and provide product strate
 - Competitors outperform in comfort
 
 ## 📎 Project Links
-- Poster: [Insert your poster link]
-- Notebook: [Insert Colab link]
+- Poster: [http://rodrigopolanco.com/wp-content/uploads/2026/04/RodrigoPolanco_CustomerSentiment_Beats_Poster.pdf]
+- Notebook: [https://colab.research.google.com/drive/1Lo0Sl5VFWnrPFfloNg-PeDYjQDvbsUR1?usp=sharing]
 
-## 📷 Sample Output
-(Add screenshots later if you want)
